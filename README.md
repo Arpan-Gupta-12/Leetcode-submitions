@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arpan-Gupta-12/Leetcode-submitions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0303-range-sum-query-immutable](https://github.com/Arpan-Gupta-12/Leetcode-submitions/tree/master/0303-range-sum-query-immutable) |
 ## Math
 |  |
 | ------- |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Arpan-Gupta-12/Leetcode-submitions/tree/master/0319-bulb-switcher) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Arpan-Gupta-12/Leetcode-submitions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Arpan-Gupta-12/Leetcode-submitions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
